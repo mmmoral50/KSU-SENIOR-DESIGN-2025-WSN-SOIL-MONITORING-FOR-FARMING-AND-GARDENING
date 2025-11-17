@@ -203,7 +203,6 @@ See [MASTER_SLAVE_SETUP_GUIDE.md](./MASTER_SLAVE_SETUP_GUIDE.md) for detailed se
 - **[MASTER/SLAVE Setup](./MASTER_SLAVE_SETUP_GUIDE.md)** - ESP32 firmware installation
 - **[Node-RED Integration](./NODE_RED_INTEGRATION.md)** - Automation setup
 - **[MASTER Display Troubleshooting](./MASTER_DISPLAY_TROUBLESHOOTING.md)** - Display issues
-- **[What's New](./WHATS_NEW.md)** - Recent updates and features
 
 ---
 
