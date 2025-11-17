@@ -11,7 +11,8 @@ PlantGuard is a comprehensive IoT monitoring system designed for the **KSU Senio
 
 ![PlantGuard Dashboard](https://via.placeholder.com/800x400/16a34a/ffffff?text=PlantGuard+IoT+Dashboard)
 
----
+<img width="668" height="1204" alt="image" src="https://github.com/user-attachments/assets/e8f6ad2b-3043-4ae4-8db9-ba3d66c3c4cd" />
+
 
 ## 🎯 Project Overview
 
@@ -33,9 +34,9 @@ PlantGuard monitors critical environmental conditions for greenhouse and agricul
 
 ### **Hardware Setup**
 ```
-┌─────────────────┐         LoRa 915MHz          ┌─────────────────┐
-│  SLAVE Node(s)  │ ──────────────────────────> │  MASTER Gateway │
-│  (Sensors)      │         RS485 Data           │  (WiFi/MQTT)    │
+┌─────────────────┐         LoRa 915MHz           ┌─────────────────┐
+│  SLAVE Node(s)  │ ──────────────────────────>   │  MASTER Gateway │
+│  (Sensors)      │         RS485 Data            │  (WiFi/MQTT)    │
 │  - Battery      │                               │  - Wall Power   │
 │  - RS485 Sensor │                               │  - OLED Display │
 │  - LoRa Radio   │                               │  - LoRa Radio   │
@@ -281,7 +282,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-**KSU Senior Project Team**
+**KSU Senior Project Teammate - Marlon Morales**
 - Project: PlantGuard IoT Monitoring System
 - Hardware: ESP32 (Heltec WiFi LoRa 32 V3.2)
 - Frequency: 915 MHz LoRa
@@ -291,7 +292,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **King Saud University** - Academic support
+- **Kennesaw State University** - Academic support
 - **Replit** - Development platform
 - **Heltec Automation** - ESP32 hardware
 - **Semtech** - LoRa technology
