@@ -300,8 +300,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For questions or issues:
-- Open an [Issue](https://github.com/yourusername/plantguard-iot/issues)
+For issues:
 - Check existing [Documentation](./CONFIGURATION_GUIDE.md)
 - Review [Troubleshooting Guide](./MASTER_DISPLAY_TROUBLESHOOTING.md)
 
