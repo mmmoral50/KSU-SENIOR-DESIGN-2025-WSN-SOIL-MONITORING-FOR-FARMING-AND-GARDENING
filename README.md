@@ -1,4 +1,4 @@
-Welcome to our Project!
+<p align="center"> Welcome to our Project!
 
 Wireless Sensor Network for Farming & Gardening 🌱  
 Electrical Engineering Senior Design – Kennesaw State University Class of 2025
