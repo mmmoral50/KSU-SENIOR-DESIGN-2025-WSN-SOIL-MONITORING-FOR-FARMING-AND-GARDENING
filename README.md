@@ -5,7 +5,7 @@
 
 <p align="center"> Electrical Engineering Senior Design – Kennesaw State University Class of 2025
   
-This repository contains the open-source hardware and software for a Wireless Sensor Network (WSN) designed to monitor soil conditions for farms and home gardens.
+<p align="center"> This repository contains the open-source hardware and software for a Wireless Sensor Network (WSN) designed to monitor soil conditions for farms and home gardens.
 
 <p align="center"> Live Monitoring UI: https://farm-sensor-moralesmarlon50.replit.app
 
