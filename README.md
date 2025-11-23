@@ -76,6 +76,11 @@
 
 
 <h2 align="center">Field Node Electrical Schematic</h2>
+<p align="center">
+  <a href="ELECTRICAL SCHEMATICS/FIELD NODE/Schematic_KSU-Senior-Design_2025-11-23.png">
+    View Field Node Schematic (PDF)
+  </a>
+</p>
 
 <p align="center">
   <a href="ELECTRICAL SCHEMATICS/FIELD NODE/Field Node Schematic_11-21-2025_Rev01.pdf">
