@@ -1,6 +1,8 @@
-<p align="center"> Welcome to our Project!
+<h1 align="center">
+  Welcome to our Project!<br>
+  Wireless Sensor Network Soil Monitoring System for Farming & Gardening 🌱
+</h1>
 
-Wireless Sensor Network for Farming & Gardening 🌱  
 Electrical Engineering Senior Design – Kennesaw State University Class of 2025
 This repository contains the open-source hardware and software for a Wireless Sensor Network (WSN) designed to monitor soil conditions for farms and home gardens.
 
