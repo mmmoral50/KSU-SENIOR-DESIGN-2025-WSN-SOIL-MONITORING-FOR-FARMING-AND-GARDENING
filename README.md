@@ -7,11 +7,7 @@ This repository contains the open-source hardware and software for a Wireless Se
 
 Live Monitoring UI: https://farm-sensor-moralesmarlon50.replit.app
 
-<img width="180" height="182" alt="Wireless Sensor Node" src="https://github.com/user-attachments/assets/2a9bdd23-585f-446c-bab9-b0db2d72462e" />  
-<p align="center">
-  <img src="IMAGES/PHASE 5/CompleteBuild_RangeTesting_Phase5.3.jpeg"
-       alt="Complete build range testing"
-       width="600">
-</p>
+<p align="center"> <img width="180" height="182" alt="Wireless Sensor Node" src="https://github.com/user-attachments/assets/2a9bdd23-585f-446c-bab9-b0db2d72462e" />  
+<p align="center">  <img src="IMAGES/PHASE 5/CompleteBuild_RangeTesting_Phase5.3.jpeg" alt="Complete build range testing" width="800"> </p>
 
 
