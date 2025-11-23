@@ -31,3 +31,64 @@
        alt="Complete build range testing"
        width="800">
 </p>
+
+
+<h2 align="center">Field Node</h2>
+
+<p align="center">
+  <img src="IMAGES/PHASE 5/CompleteBuild_RangeTesting_Phase5.1.jpeg"
+       alt="Field node enclosure"
+       width="400">
+</p>
+
+<p align="center">
+  <img src="IMAGES/PHASE 5/CompleteBuild_RangeTesting_Phase5.2.jpeg"
+       alt="Field node internal view"
+       width="400">
+</p>
+
+
+<h2 align="center">User Interface</h2>
+
+<p align="center">
+  <img src="IMAGES/WEB DASHBOARD/01 HOME PAGE/TopOfDashboard.jpg"
+       alt="Top of web dashboard"
+       width="800">
+</p>
+
+<p align="center">
+  <img src="IMAGES/WEB DASHBOARD/01 HOME PAGE/MiddleOfDashboard_.jpg"
+       alt="Middle of web dashboard"
+       width="800">
+</p>
+
+<p align="center">
+  <img src="IMAGES/WEB DASHBOARD/01 HOME PAGE/BottomOfDashboard.jpg"
+       alt="Bottom of web dashboard"
+       width="800">
+</p>
+
+<p align="center">
+  <img src="IMAGES/WEB DASHBOARD/01 HOME PAGE/SetupLocationName&PlantType.jpg"
+       alt="Dashboard setup page"
+       width="800">
+</p>
+
+
+<h2 align="center">Field Node Electrical Schematic</h2>
+
+<p align="center">
+  <a href="ELECTRICAL SCHEMATICS/FIELD NODE/Field Node Schematic_11-21-2025_Rev01.pdf">
+    View Field Node Schematic (PDF)
+  </a>
+</p>
+
+
+<h2 align="center">Full System Graphical Design</h2>
+
+<p align="center">
+  <img src="ELECTRICAL SCHEMATICS/FIELD NODE/FullSystem_GraphicalDiagram.jpg"
+       alt="Full system graphical diagram"
+       width="800">
+</p>
+
