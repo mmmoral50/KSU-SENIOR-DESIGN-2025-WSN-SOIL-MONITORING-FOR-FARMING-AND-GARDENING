@@ -68,12 +68,6 @@
        width="800">
 </p>
 
-<p align="center">
-  <img src="IMAGES/WEB DASHBOARD/01 HOME PAGE/SetupLocationName&PlantType.jpg"
-       alt="Dashboard setup page"
-       width="800">
-</p>
-
 
 <h2 align="center">Field Node Electrical Schematic</h2>
 
