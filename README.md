@@ -95,8 +95,10 @@
        width="800">
 </p>
 
-p align="center">
+
+<h2 align="center">KSU Campus Range Test</h2>
+<p align="center">
   <img src="IMAGES/PHASE 5/RangeTestFull_KSUCampus.jpg"
        alt="KSU Campus Range Test"
-       width="800">
+       width="600">
 </p>
